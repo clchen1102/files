@@ -78,11 +78,5 @@
 {"key":"drpy_js_DJ音乐","name":"音频┃DJ音乐[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/DJ音乐.js"},
 {"key":"drpy_js_短视频","name":"聚合┃短视频[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/短视频.js"},
 {"key":"drpy_js_酷6网","name":"聚合┃酷6网[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/酷6网.js"},
-
-
-
-
-
-
-
-
+]
+}
