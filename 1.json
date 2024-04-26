@@ -23,6 +23,8 @@
 {"key":"csp_Dm84","name":"动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ying","name":"樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"日本┃动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"追剧","name":"追剧┃App","type":3,"api":"csp_AppTT","playerType":2,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
+{"key": "js_骚火电影","name":"┃骚火┃影视","type": 3,"api": "./js/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/saohuo.js"},  
 {"key":"csp_Aid","name":"急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio":3.8}}
 ]
 }
