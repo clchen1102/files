@@ -1,6 +1,6 @@
 
 {
-"spider":"./jar/fan.txt;md5;ff2a62d70456f5ccc45f5e17b24d4a45",
+"spider":"./jar/fan.txt;md5;ca8aebf22c8948c98104d094d5f87c73",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
 {"key":"非凡","name":"非凡┃采集","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","日本剧","韩国剧","台湾剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
