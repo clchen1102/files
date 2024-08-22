@@ -1,6 +1,6 @@
 
 {
-"spider":"./jar/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
+"spider":"./jar/fan.txt;md5;5d760b50584f03b3f71c8a6d1c17aa8e",
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
 {"key":"量子","name":"量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","日本剧","韩国剧","台湾剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫","国产动漫","动漫片","体育","足球","篮球","网球","斯诺克"]},
