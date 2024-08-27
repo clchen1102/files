@@ -16,7 +16,6 @@
 {"key":"原创","name":"原创┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"萌米","name":"萌米┃App","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
-{"key":"量子","name":"量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产剧","日本剧","韩国剧","台湾剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","日韩动漫","欧美动漫","港台动漫","海外动漫","国产动漫","动漫片","体育","足球","篮球","网球","斯诺克"]},
 {"key":"Auete","name":"奥特┃直连","type": 3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/"}, 
 {"key":"苹果影视","name":"苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"百度","name":"百度┃采集","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod?ac=list","searchable":1,"filterable":0,"categories":["大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产动漫","日韩动漫"]},
