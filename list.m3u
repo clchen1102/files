@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="台灣",TVBS新聞
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣",TVBS新聞
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="台灣",TVBS新聞
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣",TVBS新聞
-http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="台灣",TVBS新聞
-http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-#EXTINF:-1 group-title="台灣",TVBS亞洲
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="台灣",TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="台灣",TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣",TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="台灣",TVBS亞洲
-http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="台灣",TVBS亞洲
-http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣",台視新聞
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣",台視新聞
@@ -45,6 +23,28 @@ http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣",東森超視34.5
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="台灣",TVBS新聞
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="台灣",TVBS新聞
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="台灣",TVBS新聞
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="台灣",TVBS新聞
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="台灣",TVBS新聞
+http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+#EXTINF:-1 group-title="台灣",TVBS亞洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="台灣",TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="台灣",TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="台灣",TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="台灣",TVBS亞洲
+http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="台灣",TVBS亞洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣",東森美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 #EXTINF:-1 group-title="台灣",東森美洲
