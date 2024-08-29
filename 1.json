@@ -12,6 +12,7 @@
 {"key":"文采","name":"文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Lib","name":"立播┃秒播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"mmys","name":"萌米┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar":"./jar/meow6.jar;md5;7949BE328984866E5E47D85228DBAC2A"},
+{"key": "XBPQ_麻衣影院","name":"麻衣影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","ext":"./json/麻衣影院.json"},
 {"key":"快看资源","name":"快看资源","type":3,"api": "csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"./jar/Extra.jar;md5;CD4C7F811864B0D97885EC48303000A4"},
 {"key":"极速资源","name":"极速资源","type":1,"api":"https://jszyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["日剧","内地剧","欧美剧","韩剧","台湾剧","香港剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","马泰剧","中国动漫","日本动漫","欧美动漫"]},
 {"key":"drpy_js_低端","name":"影视|低端[js]","type":3,"api":"./js/drpy2.min.js","ext":"./js/ddys_d.js"},
