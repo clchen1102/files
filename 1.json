@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan.txt;md5;bad6f48fc2e797ce45de2a0b06adf6bc",
+"spider":"./jar/fan.txt;md5;5187bb3bc6eba66ecb3785abb0d21431",
 "lives":[{"name":"初秋语","type":0,"url":"./list.m3u"}],  
 "sites":[
 {"key":"暴风采集","name":"暴风影音","type":1,"api":"https://app.bfzyapi.com/api.php/provide/vod/","playUrl": "","categories": ["国产剧","台湾剧","日本剧","韩国剧","欧美剧","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","泰国剧","香港剧","国产动漫","纪录片"]},
